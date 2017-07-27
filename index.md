@@ -1,5 +1,5 @@
 ## Software Development Tips
-[edit on GitHub](https://github.com/garryallwood/Software-Development/edit/master/Index.md)
+[edit on GitHub](https://github.com/garryallwood/Software-Development/edit/master/index.md)
 
 ### Markdown
 
