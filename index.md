@@ -1,34 +1,12 @@
 ## Software Development Tips
 [edit on GitHub](https://github.com/garryallwood/Software-Development/edit/master/index.md)
 
-### Markdown
+### Git Commands
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```bash
+git status #get diff between current working tree and the local head commit
+git pull #Incorporates changes from a remote repository into the current local branch.
+git checkout -- <paths> #undo the local uncommitted changes in the paths
+git add . #Adds all changes in working tree to the index so it is ready for commit
+git commit -m "message here" #commit local changes with the message
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/garryallwood/Software-Development/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
