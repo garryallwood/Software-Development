@@ -9,6 +9,7 @@ git pull #Incorporates changes from a remote repository into the current local b
 git checkout -- <paths> #undo the local uncommitted changes in the paths
 git add . #Adds all changes in working tree to the index so it is ready for commit
 git commit -m "message here" #commit local changes with the message
+git push origin master #Push to the master branch (the branch on Bitbucket) on origin (the Bitbucket server)
 git branch -a #View all branches - local and remote"
 ```
 ```vi
