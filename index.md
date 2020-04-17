@@ -2,6 +2,7 @@
 [edit on GitHub](https://github.com/garryallwood/Software-Development/edit/master/index.md)
 
 ### Git Commands
+[Setup SSH Keys](https://www.freecodecamp.org/news/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca/)
 
 ```bash
 git status #get diff between current working tree and the local head commit
